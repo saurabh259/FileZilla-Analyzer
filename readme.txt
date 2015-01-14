@@ -1,7 +1,7 @@
 
 The package provides two instances of the Log Analyzer
 
-	1) Named as log_analyzer.py
+	1) Named as log_analyzer-1
 	
 		<> "filezilla_analyzer.py" which can be 
 		run on any system having python installed.
@@ -9,7 +9,7 @@ The package provides two instances of the Log Analyzer
 		<> to execute the analyzer through this instance all files 
 		must be in the same folder.
 
-	2) Named as logAnalyzer Windows
+	2) Named as log_analyzer-2
 	
 		<>The version has executable file for Windows and supports both 
 		32-bit and 64-bit version of windows.
@@ -60,6 +60,11 @@ Main methods/features implementations of the Application :
 
 	5) Manipulating Log Data : 're'( Regular Expression) library of python is used to extract the data in required
 	format.
+
+
+
+Authors : Saurabh Joshi (saurabh259) , Abhijeet Baranwaal (abhijeet-anshu) , Rishi Ghosh
+
 	 
 
 		
